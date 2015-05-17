@@ -1,0 +1,2 @@
+Bluepath consists of two parts;1 Bluepath which is a midlet that runs on a java enable mobile phone with bleutooth connection and 2 BluepathPC which run on the pc and responds to instrucstions from the clien (Bluepath).
+With bluepath you can carry out most of the things you do right behind your pc and control the movements of your mouse cursor remotely
